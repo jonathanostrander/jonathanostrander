@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jonathanostrander
 - 👀 I’m interested in front end web development
-- 🌱 I’m currently learning HTML, CSS, and Javascript
+- 🌱 I’m currently learning Javascript and React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me jonathanostrander@gmail.com
 
